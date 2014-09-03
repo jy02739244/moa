@@ -16,7 +16,7 @@
                    <string>software-package</string>
                    <!-- required.  the URL of the file to download. -->
                    <key>url</key>
-                   <string>http://112.64.185.166:8080/moaproduct20140822.ipa</string>
+                   <string>http://112.64.185.166:8080/moa_p.ipa</string>
                </dict>
                <!-- display-image: the icon to display during download .-->
                <dict>
@@ -45,7 +45,7 @@
                <string>Apple</string>
                <!-- required.  the title to display during the download. -->
                <key>title</key>
-               <string>�ƶ��칫2.0</string>
+               <string>ÒÆ¶¯°ì¹«2.0</string>
            </dict>
        </dict>
    </array>
