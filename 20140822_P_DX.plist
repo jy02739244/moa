@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GB2312"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -45,7 +45,7 @@
                <string>Apple</string>
                <!-- required.  the title to display during the download. -->
                <key>title</key>
-               <string>ÒÆ¶¯°ì¹«2.0</string>
+               <string>移动办公2.0</string>
            </dict>
        </dict>
    </array>
